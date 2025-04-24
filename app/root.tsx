@@ -41,5 +41,5 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  return<><h1>Navbar</h1> <Outlet /></>;
+  return<> <Outlet /></>;
 }
